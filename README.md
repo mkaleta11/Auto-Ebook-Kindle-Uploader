@@ -9,11 +9,12 @@ Welcome to Auto Ebook Kindle Uploader!
 1. Add a book
 2. Exit
 Enter choice: 1
-(You select the book you want to add)
+#(You select the book you want to add)
 Book added to Kindle.
 Enter choice: 2
 Bye!
 ```
 
 Tested only on Kindle Paperwhite 11 Generation and Windows 10/11.
+
 
